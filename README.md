@@ -1,5 +1,5 @@
 # Kawasaki Clone's Backend
-[http://localhost:3000](http://localhost:3000)
+[https://github.com/vujic02/kawasaki-clone-backend](Backend)
 
 ### `npm start`
 
