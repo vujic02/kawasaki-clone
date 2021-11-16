@@ -1,6 +1,3 @@
-# Kawasaki Clone's Backend
-[Backend](https://github.com/vujic02/kawasaki-clone-backend)
-
 ### `npm start`
 
 Runs the app in the development mode.\
