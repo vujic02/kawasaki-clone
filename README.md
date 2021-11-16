@@ -1,5 +1,5 @@
 # Kawasaki Clone's Backend
-[https://github.com/vujic02/kawasaki-clone-backend](Backend)
+[Backend](https://github.com/vujic02/kawasaki-clone-backend)
 
 ### `npm start`
 
