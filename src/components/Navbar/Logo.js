@@ -4,11 +4,10 @@ const Logo = () => {
   return (
     <svg
       focusable="false"
-      width="364px"
-      height="30px"
       viewBox="0 0 364 30"
       version="1.1"
       xmlns="http://www.w3.org/2000/svg"
+      className="w-full h-full"
     >
       <g
         id="Symbols-desktop"
